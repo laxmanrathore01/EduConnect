@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 
-=======
 # EduConnect
 
-## EduConnect
 ### Description
 EduConnect is a web portal designed specifically for college students to streamline access to academic resources such as lecture notes, previous year papers, assignments, and syllabus. This platform aims to enhance the educational experience by providing a centralized hub for essential materials that are often shared via disparate channels like WhatsApp groups.
 
 ### Features
 Centralized Access: All academic resources are centralized on the EduConnect platform, eliminating the need to sift through multiple messaging platforms or emails.
 
- Notes Repository: Easily access lecture notes uploaded by professors for various subjects, ensuring students have a comprehensive resource for their studies.
+Notes Repository: Easily access lecture notes uploaded by professors for various subjects, ensuring students have a comprehensive resource for their studies.
 
- Previous Year Papers: Access to previous year examination papers aids in exam preparation by allowing students to familiarize themselves with the format and types of questions asked.
+Previous Year Papers: Access to previous year examination papers aids in exam preparation by allowing students to familiarize themselves with the format and types of questions asked.
 
 Assignments: Quickly find and download assignment sheets, facilitating timely completion and submission of assignments.
 
