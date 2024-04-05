@@ -23,7 +23,7 @@ To get started with EduConnect, follow these steps:
 Clone the Repository: Clone the EduConnect repository to your local machine using the following command:
 
 
-git clone https://github.com/your-username/educonnect.git
+git clone https://github.com/laxmanrathore01/educonnect.git
 Install Dependencies: Ensure you have all necessary dependencies installed. You may need Node.js, npm, or any other specific requirements mentioned in the project's documentation.
 
 Setup Database: If the project utilizes a database, follow the instructions in the documentation to set it up and configure the necessary environment variables.
