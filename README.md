@@ -1,7 +1,7 @@
 
 # EduConnect
 
-### Description
+## Description
 EduConnect is a web portal designed specifically for college students to streamline access to academic resources such as lecture notes, previous year papers, assignments, and syllabus. This platform aims to enhance the educational experience by providing a centralized hub for essential materials that are often shared via disparate channels like WhatsApp groups.
 
 ### Features
