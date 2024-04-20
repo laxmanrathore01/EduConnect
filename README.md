@@ -41,8 +41,7 @@ Contributions to EduConnect are welcome! If you find any bugs, have feature requ
 This project is licensed under the MIT License.
 
 ### Acknowledgements
-We would like to express our gratitude to all contributors who have helped in the development of EduConnect.
-Special thanks to [mention any libraries, frameworks, or resources used in the project].
+We would like to express our gratitude to all contributors who have helped in the development of EduConnect..
 ### Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us at [laxmansingh2703@gmail.com].
 
